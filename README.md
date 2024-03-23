@@ -1,1 +1,1 @@
-# Wallpaper-Gallery-Website
+Its a fully responsive site
